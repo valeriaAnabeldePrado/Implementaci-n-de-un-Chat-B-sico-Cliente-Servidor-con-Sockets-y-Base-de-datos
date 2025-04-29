@@ -1,4 +1,4 @@
-# Chat Básico Cliente-Servidor con Sockets y Base de Datos
+# Chat Cliente-Servidor con Sockets y Base de Datos
 Un sistema simple de chat que implementa un servidor y un cliente utilizando sockets TCP/IP y almacena los mensajes en una base de datos SQLite.
 
 ## Características
